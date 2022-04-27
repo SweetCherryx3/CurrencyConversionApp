@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Conversion App</string>
+    <string name="titleName">Currency Conversion</string>
+    <string name="titleDescription">Convert USD to Euros, Mexican Pesos or Canadian Dollars</string>
+    <string name="btnCost">CALCULATE CONVERSION</string>
+    <string name="picDescription">money</string>
+    <string name="USD_Amount">Enter the USD amount</string>
+    <string name="conversion1">Convert to Euros</string>
+    <string name="conversion2">Convert to Mexican Pesos</string>
+    <string name="conversion3">Convert to Canadian Dollars</string>
+    <string name="totalConversionAmount"></string>
+</resources>
